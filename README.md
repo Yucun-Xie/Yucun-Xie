@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yucun-Xie
-- 👀 I’m interested in physcis
-- 🌱 I’m currently learning General relativity
+- 👋 Hi, I’m @Yucun-Xie, an undergraduate student at University of Maryland.
+- 👀 I’m interested in high energy physics and gravitation physics.
+- 🌱 I’m currently working with CMS collaboration.
 - 📫 Email: yucun.xie@cern.ch and yxie@fnal.gov
 
 <!---
