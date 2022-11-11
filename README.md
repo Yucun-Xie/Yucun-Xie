@@ -4,9 +4,9 @@
 - 📫 Email: yucun.xie@cern.ch and xyc@umd.edu.
 
 I have maintained a set of study notes for the physics subjects I am interested. Check the following:
-- [Quantum Field Theory](/Yucun-Xie/PhysicsNotes/tree/main/Quantum_Field_Theory)
-- [General Relativity](/Yucun-Xie/PhysicsNotes/tree/main/General_Relativity)
-- [Quantum Field Theory in Curved Spacetime](/Yucun-Xie/PhysicsNotes/tree/main/QFT_in_Curved_Spacetime)
+- [Quantum Field Theory](/PhysicsNotes/tree/main/Quantum_Field_Theory)
+- [General Relativity](/PhysicsNotes/tree/main/General_Relativity)
+- [Quantum Field Theory in Curved Spacetime](/PhysicsNotes/tree/main/QFT_in_Curved_Spacetime)
 
 <!---
 Yucun-Xie/Yucun-Xie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
